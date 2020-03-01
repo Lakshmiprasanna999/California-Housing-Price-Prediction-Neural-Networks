@@ -1,1 +1,1 @@
-# California-Housing-Price-Prediction---Neural-Networks
+# California-Housing-Price-Prediction Neural-Networks
