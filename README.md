@@ -32,6 +32,6 @@ Numpy, Pandas, Matplotlib, Seaborn,Scikit-learn,
 5. Dense Neural Network Architecture 2 - 73369.41033862687
 6. Dense Neural Network Architecture 3 - 64266.68416311362
 
-# Insight
+# Insights
 1. The variables Median Income, Housing Median Age and Ocean Proximity Inland have high importance in predicting the median house price. 
 2. Dense Neural Network model with three layers each with 64 hidden units(Activation Function:'RELU') is found to be performing well(low RMSE value) compared to other models.
